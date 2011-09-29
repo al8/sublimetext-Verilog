@@ -1,0 +1,1 @@
+Adds support for editing Verilog filetypes (*.v, *.V) and SystemVerilog files (sv, SV)
